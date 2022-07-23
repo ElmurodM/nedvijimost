@@ -1,0 +1,4 @@
+2022-06-25T21:58:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 12): ["\u0424\u0443\u0442\u0431\u043e\u043b\u043a\u0438"].
+2022-06-25T21:58:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 30): ["\u0424\u0443\u0442\u0431\u043e\u043b\u043a\u0438"].
+2022-06-25T21:58:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 2 products:
+[{"woocommerce_id":12,"google_id":"online:ru:UZ:gla_12"},{"woocommerce_id":30,"google_id":"online:ru:UZ:gla_30"}]

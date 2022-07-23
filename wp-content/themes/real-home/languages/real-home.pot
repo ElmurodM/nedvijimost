@@ -1,0 +1,2574 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Real Home\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-30 11:48+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.4; wp-5.8.1\n"
+"X-Domain: real-home"
+
+#. 1: title.
+#: template-parts/footer/footer_copyright.php:28
+#, php-format
+msgid " -  Powered by %1$s"
+msgstr ""
+
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Main_Row_Fields.php:62
+msgid " Choose position for the content in the Center Column."
+msgstr ""
+
+#. 1: title.
+#: template-parts/front-page/content-property-location.php:78
+#, php-format
+msgid "%1$d Properties"
+msgstr ""
+
+#: inc/classes/Real_Home_Helper.php:33
+msgid "--- choose ---"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:1043
+#: template-parts/header/contact_info.php:14
+msgid "0123456789"
+msgstr ""
+
+#: functions.php:127
+msgid "100% Satisfaction"
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Post_Featured_Image_Fields.php:30
+#: inc/customizer/options/single-page/Real_Home_Customize_Single_Page_Featured_Image_Fields.php:30
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Featured_Image_Fields.php:30
+msgid "16:9"
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Post_Featured_Image_Fields.php:28
+#: inc/customizer/options/single-page/Real_Home_Customize_Single_Page_Featured_Image_Fields.php:28
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Featured_Image_Fields.php:28
+msgid "1:1"
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Post_Featured_Image_Fields.php:31
+#: inc/customizer/options/single-page/Real_Home_Customize_Single_Page_Featured_Image_Fields.php:31
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Featured_Image_Fields.php:31
+msgid "3:4"
+msgstr ""
+
+#: 404.php:52
+msgid "404"
+msgstr ""
+
+#: 404.php:45
+msgid "404 Error Image"
+msgstr ""
+
+#: inc/classes/Real_Home_Breadcrumb_Trail.php:261
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/classes/Real_Home_Helper.php:99
+#: inc/customizer/Real_Home_Customizer.php:302
+msgid "404 Page"
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Post_Featured_Image_Fields.php:29
+#: inc/customizer/options/single-page/Real_Home_Customize_Single_Page_Featured_Image_Fields.php:29
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Featured_Image_Fields.php:29
+msgid "4:3"
+msgstr ""
+
+#: inc/tgm/tgm.php:21
+msgid "Aarambha Demo Sites"
+msgstr ""
+
+#. Author of the theme
+#: template-parts/footer/footer_copyright.php:29
+msgid "Aarambha Themes"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:298
+msgid "About Page"
+msgstr ""
+
+#: inc/customizer/options/global/Real_Home_Customize_Global_Color_Fields.php:25
+msgid "Accent"
+msgstr ""
+
+#: inc/customizer/builder/header/Real_Home_Customizer_Header_Builder.php:276
+#: inc/customizer/builder/header/Real_Home_Customizer_Header_Builder.php:415
+msgid "Account"
+msgstr ""
+
+#: inc/customizer/controls/repeater/Real_Home_Customize_Repeater_Control.php:460
+#: inc/customizer/controls/repeater/Real_Home_Customize_Repeater_Control.php:464
+msgid "Add File"
+msgstr ""
+
+#: inc/customizer/controls/repeater/Real_Home_Customize_Repeater_Control.php:424
+#: inc/customizer/controls/repeater/Real_Home_Customize_Repeater_Control.php:428
+msgid "Add Image"
+msgstr ""
+
+#: inc/customizer/controls/repeater/Real_Home_Customize_Repeater_Control.php:77
+#, php-format
+msgid "Add new %s"
+msgstr ""
+
+#: functions.php:181 functions.php:194
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/customizer/options/custom-post/Real_Home_Customize_Property_Post_Fields.php:65
+msgid "Address"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:1057
+#: template-parts/header/contact_info.php:28
+msgid "address"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:667
+msgid "Agency"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:285
+msgid "Agency Single Post"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:673
+msgid "Agent"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:277
+msgid "Agent Archive Posts"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:281
+msgid "Agent Single Post"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:260
+msgid "Archive Posts"
+msgstr ""
+
+#: inc/classes/Real_Home_Breadcrumb_Trail.php:262
+msgid "Archives"
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Post_Featured_Image_Fields.php:22
+#: inc/customizer/options/single-page/Real_Home_Customize_Single_Page_Featured_Image_Fields.php:22
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Featured_Image_Fields.php:22
+msgid "Aspect Ratio"
+msgstr ""
+
+#: inc/customizer/controls/background/Real_Home_Customize_Background_Control.php:158
+msgid "Attachment"
+msgstr ""
+
+#: inc/classes/Real_Home_Helper.php:204 inc/classes/Real_Home_Helper.php:530
+#: inc/classes/Real_Home_Helper.php:541
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Posts_Layout_Fields.php:43
+#: inc/customizer/options/custom-post/Real_Home_Customize_Property_Post_Fields.php:43
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Header_Fields.php:42
+msgid "Author"
+msgstr ""
+
+#: inc/customizer/options/custom-post/Real_Home_Customize_Property_Post_Fields.php:72
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Content_Fields.php:46
+msgid "Author Box"
+msgstr ""
+
+#: inc/customizer/controls/background/Real_Home_Customize_Background_Control.php:190
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Post_Featured_Image_Fields.php:27
+#: inc/customizer/options/single-page/Real_Home_Customize_Single_Page_Featured_Image_Fields.php:27
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Featured_Image_Fields.php:27
+msgid "Auto"
+msgstr ""
+
+#: inc/customizer/options/global/Real_Home_Customize_Global_Body_Fields.php:22
+#: inc/customizer/options/global/Real_Home_Customize_Global_Color_Fields.php:94
+msgid "Background"
+msgstr ""
+
+#: inc/customizer/options/404-page/Real_Home_Customize_404_Page_Content_Fields.php:69
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Clients_Logo_Fields.php:62
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Counter_Fields.php:52
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_News_Blog_Fields.php:99
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Property_Features_Fields.php:71
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Property_Locations_Fields.php:96
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Property_Type_Fields.php:78
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Services_Fields.php:62
+#: inc/customizer/options/global/Real_Home_Customize_Global_Page_Header_Fields.php:22
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Main_Row_Fields.php:82
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Top_Row_Fields.php:82
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Clients_Logo_Fields.php:78
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Counter_Fields.php:63
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_News_Blog_Fields.php:115
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Property_Features_Fields.php:87
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Property_Locations_Fields.php:111
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Property_Type_Fields.php:94
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Services_Fields.php:78
+#: inc/customizer/options/global/Real_Home_Customize_Global_Page_Header_Fields.php:33
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Bottom_Row_Fields.php:87
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Main_Row_Fields.php:98
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Top_Row_Fields.php:93
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Bottom_Row_Fields.php:97
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Main_Row_Fields.php:97
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Top_Row_Fields.php:97
+msgid "Background Overlay"
+msgstr ""
+
+#: inc/customizer/options/global/Real_Home_Customize_Global_Typography_Fields.php:22
+msgid "Base"
+msgstr ""
+
+#: inc/customizer/options/global/Real_Home_Customize_Global_Color_Fields.php:58
+msgid "Base Text"
+msgstr ""
+
+#: template-parts/front-page/content-banner.php:83
+#: template-parts/front-page/content-featured.php:92
+msgid "bathroom"
+msgstr ""
+
+#: template-parts/front-page/content-banner.php:73
+#: template-parts/front-page/content-featured.php:82
+msgid "bedroom"
+msgstr ""
+
+#: functions.php:123
+msgid "Best Support"
+msgstr ""
+
+#: inc/customizer/options/global/Real_Home_Customize_Global_Color_Fields.php:98
+msgid "BG Color"
+msgstr ""
+
+#: inc/classes/Real_Home_Helper.php:106
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer/controls/box-shadow/Real_Home_Customize_Box_Shadow_Control.php:148
+msgid "Blur"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:334
+msgid "Body"
+msgstr ""
+
+#: inc/classes/Real_Home_Google_Fonts.php:426
+msgid "Bold 700"
+msgstr ""
+
+#: inc/classes/Real_Home_Google_Fonts.php:427
+msgid "Bold 700 Italic"
+msgstr ""
+
+#: inc/classes/Real_Home_Google_Fonts.php:417
+msgid "Book 300"
+msgstr ""
+
+#: inc/classes/Real_Home_Google_Fonts.php:418
+msgid "Book 300 Italic"
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Button_Fields.php:82
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Social_Icons_Fields.php:102
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Account_Fields.php:127
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Button_Fields.php:82
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Social_Icons_Fields.php:102
+msgid "Border"
+msgstr ""
+
+#: inc/customizer/controls/background/Real_Home_Customize_Background_Control.php:149
+msgid "Bottom Center"
+msgstr ""
+
+#: inc/customizer/controls/background/Real_Home_Customize_Background_Control.php:148
+msgid "Bottom Left"
+msgstr ""
+
+#: inc/customizer/controls/background/Real_Home_Customize_Background_Control.php:150
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/customizer/builder/footer/Real_Home_Customizer_Footer_Builder.php:302
+#: inc/customizer/builder/footer/Real_Home_Customizer_Footer_Builder.php:368
+#: inc/customizer/builder/header/Real_Home_Customizer_Header_Builder.php:308
+#: inc/customizer/builder/header/Real_Home_Customizer_Header_Builder.php:374
+msgid "Bottom Row"
+msgstr ""
+
+#: inc/customizer/options/404-page/Real_Home_Customize_404_Page_Header_Fields.php:28
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Page_Header_Fields.php:29
+#: inc/customizer/options/custom-post/Real_Home_Customize_Agent_Post_Fields.php:29
+#: inc/customizer/options/custom-post/Real_Home_Customize_Property_Post_Fields.php:30
+#: inc/customizer/options/custom-posts/Real_Home_Customize_Custom_Archive_Property_Fields.php:30
+#: inc/customizer/options/single-page/Real_Home_Customize_Single_Page_Header_Fields.php:28
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Header_Fields.php:29
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/classes/Real_Home_Breadcrumb_Trail.php:259
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/classes/Real_Home_Breadcrumb_Trail.php:258
+msgid "Browse:"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:1161
+#: template-parts/footer/footer_button.php:12
+#: inc/customizer/builder/footer/Real_Home_Customizer_Footer_Builder.php:246
+#: inc/customizer/builder/footer/Real_Home_Customizer_Footer_Builder.php:393
+#: inc/customizer/builder/header/Real_Home_Customizer_Header_Builder.php:271
+#: inc/customizer/builder/header/Real_Home_Customizer_Header_Builder.php:399
+#: inc/customizer/options/404-page/Real_Home_Customize_404_Page_Content_Fields.php:51
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Post_Read_More_Fields.php:27
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Button_Fields.php:44
+msgid "Button"
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Post_Read_More_Fields.php:35
+msgid "Button Arrow"
+msgstr ""
+
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Property_Locations_Fields.php:80
+msgid "Button Link"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:1139
+msgid "Buttons List"
+msgstr ""
+
+#: inc/customizer/controls/typography/Real_Home_Customize_Typography_Control.php:165
+msgid "Capitalize"
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Posts_Layout_Fields.php:44
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Content_Fields.php:28
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Header_Fields.php:44
+msgid "Categories"
+msgstr ""
+
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_News_Blog_Fields.php:83
+msgid "Categories/Author"
+msgstr ""
+
+#: inc/customizer/controls/background/Real_Home_Customize_Background_Control.php:146
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Bottom_Row_Fields.php:32
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Bottom_Row_Fields.php:52
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Bottom_Row_Fields.php:72
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Main_Row_Fields.php:32
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Main_Row_Fields.php:52
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Main_Row_Fields.php:72
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Top_Row_Fields.php:32
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Top_Row_Fields.php:52
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Top_Row_Fields.php:72
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Bottom_Row_Fields.php:47
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Bottom_Row_Fields.php:67
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Bottom_Row_Fields.php:87
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Main_Row_Fields.php:47
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Main_Row_Fields.php:67
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Main_Row_Fields.php:87
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Top_Row_Fields.php:47
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Top_Row_Fields.php:67
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Top_Row_Fields.php:87
+msgid "Center"
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Bottom_Row_Fields.php:46
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Main_Row_Fields.php:46
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Top_Row_Fields.php:46
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Bottom_Row_Fields.php:61
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Main_Row_Fields.php:61
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Top_Row_Fields.php:61
+msgid "Center Column"
+msgstr ""
+
+#: inc/customizer/controls/background/Real_Home_Customize_Background_Control.php:145
+msgid "Center Left"
+msgstr ""
+
+#: inc/customizer/controls/background/Real_Home_Customize_Background_Control.php:147
+msgid "Center Right"
+msgstr ""
+
+#: inc/customizer/controls/repeater/Real_Home_Customize_Repeater_Control.php:460
+#: inc/customizer/controls/repeater/Real_Home_Customize_Repeater_Control.php:462
+msgid "Change File"
+msgstr ""
+
+#: inc/customizer/controls/repeater/Real_Home_Customize_Repeater_Control.php:424
+#: inc/customizer/controls/repeater/Real_Home_Customize_Repeater_Control.php:426
+msgid "Change Image"
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Bottom_Row_Fields.php:47
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Main_Row_Fields.php:47
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Top_Row_Fields.php:47
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Bottom_Row_Fields.php:62
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Top_Row_Fields.php:62
+msgid "Choose position for the content in the Center Column."
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Bottom_Row_Fields.php:27
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Main_Row_Fields.php:27
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Top_Row_Fields.php:27
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Bottom_Row_Fields.php:42
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Main_Row_Fields.php:42
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Top_Row_Fields.php:42
+msgid "Choose position for the content in the Left Column."
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Bottom_Row_Fields.php:67
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Main_Row_Fields.php:67
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Top_Row_Fields.php:67
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Bottom_Row_Fields.php:82
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Main_Row_Fields.php:82
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Top_Row_Fields.php:82
+msgid "Choose position for the content in the Right Column."
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Sidebar_Fields.php:23
+msgid "Choose Sidebar Layout for blog/archive pages."
+msgstr ""
+
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Sidebar_Fields.php:23
+msgid "Choose Sidebar Layout for single post."
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:1140
+msgid "Click add button to add new button item."
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:1074
+msgid "Click add button to add new contact item."
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:992
+msgid "Client"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:459
+#: template-parts/front-page/content-clients.php:31
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_General_Fields.php:21
+msgid "Clients Logo"
+msgstr ""
+
+#: inc/customizer/builder/header/views/builder-template.php:25
+msgid "Close"
+msgstr ""
+
+#: inc/customizer/controls/background/Real_Home_Customize_Background_Control.php:95
+#: inc/customizer/controls/background/Real_Home_Customize_Background_Control.php:200
+#: inc/customizer/controls/border/Real_Home_Customize_Border_Control.php:152
+#: inc/customizer/controls/box-shadow/Real_Home_Customize_Box_Shadow_Control.php:209
+#: inc/customizer/controls/color/Real_Home_Customize_Color_Control.php:50
+#: inc/customizer/controls/typography/Real_Home_Customize_Typography_Control.php:362
+msgid "Color"
+msgstr ""
+
+#: inc/customizer/options/global/Real_Home_Customize_Global_Color_Fields.php:62
+msgid "Color 2"
+msgstr ""
+
+#: inc/customizer/options/global/Real_Home_Customize_Global_Body_Fields.php:23
+msgid "Color or Image as the background of your site."
+msgstr ""
+
+#. %s is the page number.
+#: inc/classes/Real_Home_Breadcrumb_Trail.php:268
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: inc/customizer/options/custom-post/Real_Home_Customize_Property_Post_Fields.php:44
+#: inc/customizer/options/single-page/Real_Home_Customize_Single_Page_Content_Fields.php:38
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Content_Fields.php:44
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Header_Fields.php:43
+msgid "Comments"
+msgstr ""
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:49
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Social_Icons_Fields.php:46
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Social_Icons_Fields.php:46
+msgid ""
+"Configure social icons in Global &raquo; Social &raquo; <a data-"
+"type=\"control\" data-id=\"real_home_social_icons\" class=\"customizer-"
+"focus\"><strong> Social Icons </strong></a>."
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:1110
+msgid "Contact"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:1073
+#: inc/customizer/options/custom-post/Real_Home_Customize_Agent_Post_Fields.php:46
+msgid "Contact Info"
+msgstr ""
+
+#: inc/customizer/controls/background/Real_Home_Customize_Background_Control.php:192
+msgid "Contain"
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Menu_Fields.php:61
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Primary_Menu_Fields.php:62
+msgid "CONTAINER"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:340
+msgid "Container"
+msgstr ""
+
+#: inc/customizer/options/custom-post/Real_Home_Customize_Agent_Post_Fields.php:47
+msgid "Content"
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Posts_Layout_Fields.php:22
+msgid "Content Elements"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/hooks/functions.php:469 inc/hooks/functions.php:648
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/customizer/builder/footer/Real_Home_Customizer_Footer_Builder.php:231
+#: inc/customizer/builder/footer/Real_Home_Customizer_Footer_Builder.php:377
+msgid "Copyright"
+msgstr ""
+
+#: template-parts/footer/footer_copyright.php:24
+msgctxt "copyright date format; check date() on php.net"
+msgid "Y"
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Copyright_Fields.php:44
+msgid "Copyright Text"
+msgstr ""
+
+#: template-parts/footer/footer_copyright.php:13
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Copyright_Fields.php:42
+msgid "Copyright {copyright} {current_year} {site_title}"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:433
+#: inc/customizer/Real_Home_Customizer.php:500
+#: inc/customizer/Real_Home_Customizer.php:922
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_General_Fields.php:18
+msgid "Counter"
+msgstr ""
+
+#: inc/customizer/controls/background/Real_Home_Customize_Background_Control.php:191
+msgid "Cover"
+msgstr ""
+
+#: inc/customizer/builder/footer/Real_Home_Customizer_Footer_Builder.php:527
+msgid "Create New File "
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:876
+msgid "Custom Icon"
+msgstr ""
+
+#: inc/classes/Real_Home_Breadcrumb_Trail.php:784
+#: inc/classes/Real_Home_Breadcrumb_Trail.php:1213
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/customizer/controls/border/Real_Home_Customize_Border_Control.php:143
+msgid "Dashed"
+msgstr ""
+
+#: inc/customizer/controls/typography/Real_Home_Customize_Typography_Control.php:78
+#: inc/customizer/controls/typography/Real_Home_Customize_Typography_Control.php:162
+#: inc/customizer/controls/typography/Real_Home_Customize_Typography_Control.php:177
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:953
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Page_Header_Fields.php:28
+#: inc/customizer/options/custom-posts/Real_Home_Customize_Custom_Archive_Property_Fields.php:29
+msgid "Description"
+msgstr ""
+
+#: inc/customizer/builder/Real_Home_Customizer_Builder.php:140
+#: inc/customizer/builder/header/Real_Home_Customizer_Header_Builder.php:301
+msgid "Desktop"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:1099
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_General_Fields.php:44
+msgid "Disable [ use WordPress Static Page ]"
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Post_Read_More_Fields.php:22
+msgid "Display as"
+msgstr ""
+
+#: functions.php:207
+msgid "Display widgets footer section of the site."
+msgstr ""
+
+#: inc/customizer/controls/border/Real_Home_Customize_Border_Control.php:142
+msgid "Dotted"
+msgstr ""
+
+#: inc/customizer/controls/border/Real_Home_Customize_Border_Control.php:144
+msgid "Double"
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Sidebar_1_Fields.php:21
+msgid ""
+"Drag and Drop Widgets to <a data-type=\"section\" data-id=\"sidebar-widgets-"
+"footer-sidebar-1\" class=\"customizer-focus\"><strong> Footer Sidebar 1 "
+"</strong></a>widget area."
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Sidebar_2_Fields.php:21
+msgid ""
+"Drag and Drop Widgets to <a data-type=\"section\" data-id=\"sidebar-widgets-"
+"footer-sidebar-2\" class=\"customizer-focus\"><strong> Footer Sidebar 2 "
+"</strong></a>widget area."
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Sidebar_3_Fields.php:21
+msgid ""
+"Drag and Drop Widgets to <a data-type=\"section\" data-id=\"sidebar-widgets-"
+"footer-sidebar-3\" class=\"customizer-focus\"><strong> Footer Sidebar 3 "
+"</strong></a>widget area."
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Sidebar_4_Fields.php:21
+msgid ""
+"Drag and Drop Widgets to <a data-type=\"section\" data-id=\"sidebar-widgets-"
+"footer-sidebar-4\" class=\"customizer-focus\"><strong> Footer Sidebar 4 "
+"</strong></a>widget area."
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Sidebar_5_Fields.php:21
+msgid ""
+"Drag and Drop Widgets to <a data-type=\"section\" data-id=\"sidebar-widgets-"
+"footer-sidebar-5\" class=\"customizer-focus\"><strong> Footer Sidebar 5 "
+"</strong></a>widget area."
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Sidebar_6_Fields.php:21
+msgid ""
+"Drag and Drop Widgets to <a data-type=\"section\" data-id=\"sidebar-widgets-"
+"footer-sidebar-6\" class=\"customizer-focus\"><strong> Footer Sidebar 6 "
+"</strong></a>widget area."
+msgstr ""
+
+#: functions.php:119
+msgid "Easy to Deal"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:91
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_News_Blog_Fields.php:77
+msgid "Elements"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:1098
+msgid "Email"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:1051
+#: template-parts/header/contact_info.php:22
+msgid "email address"
+msgstr ""
+
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_General_Fields.php:43
+msgid "Enable"
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Post_Read_More_Fields.php:36
+msgid "Enable Arrow Icon after Button/Text."
+msgstr ""
+
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_News_Blog_Fields.php:78
+msgid ""
+"Enable blog post content elements and rearrange the list by drag and drop."
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Back_To_Top_Fields.php:24
+msgid "Enable button to scroll to top."
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Posts_Layout_Fields.php:23
+msgid ""
+"Enable lists for blog post content elements and rearrange the order by drag "
+"and drop."
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Page_Header_Fields.php:23
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Header_Fields.php:23
+msgid ""
+"Enable lists of page header elements and rearrange the order by drag and "
+"drop."
+msgstr ""
+
+#: inc/customizer/options/404-page/Real_Home_Customize_404_Page_Content_Fields.php:44
+msgid "Enable page content elements and order their list with drag and drop."
+msgstr ""
+
+#: inc/customizer/options/custom-post/Real_Home_Customize_Agent_Post_Fields.php:24
+#: inc/customizer/options/custom-posts/Real_Home_Customize_Custom_Archive_Property_Fields.php:24
+msgid "Enable Page Header Elements and manage lists using drag and drop."
+msgstr ""
+
+#: inc/customizer/options/404-page/Real_Home_Customize_404_Page_Header_Fields.php:23
+msgid "Enable page header elements and order their list with drag and drop."
+msgstr ""
+
+#: inc/customizer/options/single-page/Real_Home_Customize_Single_Page_Header_Fields.php:23
+msgid "Enable Page Header Elements and rearrange order with drag and drop."
+msgstr ""
+
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_General_Fields.php:53
+msgid "Enable Page Header Elements and sort them by Drag and Drop."
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Posts_Layout_Fields.php:39
+msgid "Enable Post Meta elements and rearrange lists using drag and drop."
+msgstr ""
+
+#: inc/customizer/options/custom-post/Real_Home_Customize_Property_Post_Fields.php:39
+msgid "Enable Post Meta Elements and sort their order by drag and drop."
+msgstr ""
+
+#: inc/customizer/options/custom-post/Real_Home_Customize_Property_Post_Fields.php:24
+msgid "Enable Social Share elements and sort list by drag and drop."
+msgstr ""
+
+#: inc/customizer/options/global/Real_Home_Customize_Global_Social_Fields.php:41
+msgid "Enable Social Share lists and re-arrange them by drag and drop."
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Button_Fields.php:67
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Social_Icons_Fields.php:58
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Button_Fields.php:67
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Social_Icons_Fields.php:58
+msgid "Enable to open the link in the new tab."
+msgstr ""
+
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Content_Fields.php:24
+msgid ""
+"Enable to show Header elements in posts and rearrange them by drag and drop."
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Bottom_Row_Fields.php:33
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Bottom_Row_Fields.php:53
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Bottom_Row_Fields.php:73
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Main_Row_Fields.php:33
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Main_Row_Fields.php:53
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Main_Row_Fields.php:73
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Top_Row_Fields.php:33
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Top_Row_Fields.php:53
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Top_Row_Fields.php:73
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Bottom_Row_Fields.php:48
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Bottom_Row_Fields.php:68
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Bottom_Row_Fields.php:88
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Main_Row_Fields.php:48
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Main_Row_Fields.php:68
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Main_Row_Fields.php:88
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Top_Row_Fields.php:48
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Top_Row_Fields.php:68
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Top_Row_Fields.php:88
+msgid "End"
+msgstr ""
+
+#: template-parts/header/button_one.php:16
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Button_Fields.php:44
+msgid "ENG"
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Html_Fields.php:45
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Html_Fields.php:45
+msgid "Enter Text/Simple HTML Code"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:1081
+#: inc/customizer/Real_Home_Customizer.php:1147
+msgid "Example: fa fa-facebook-f"
+msgstr ""
+
+#: inc/classes/Real_Home_Google_Fonts.php:428
+#: inc/classes/Real_Home_Google_Fonts.php:429
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: inc/classes/Real_Home_Google_Fonts.php:430
+msgid "Extra-Bold 800 Italic"
+msgstr ""
+
+#: inc/classes/Real_Home_Helper.php:125
+#: inc/customizer/options/global/Real_Home_Customize_Global_Social_Fields.php:45
+msgid "Facebook"
+msgstr ""
+
+#: template-parts/front-page/content-featured.php:15
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Property_Features_Fields.php:38
+msgid "Feature Listings"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:528
+#: inc/customizer/Real_Home_Customizer.php:581
+#: inc/customizer/Real_Home_Customizer.php:709
+msgid "Featured Image"
+msgstr ""
+
+#: inc/customizer/options/custom-post/Real_Home_Customize_Property_Post_Fields.php:69
+msgid "Features"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:1058
+#: template-parts/header/contact_info.php:29
+msgid "find us"
+msgstr ""
+
+#: inc/customizer/controls/background/Real_Home_Customize_Background_Control.php:163
+msgid "Fixed"
+msgstr ""
+
+#: inc/customizer/options/custom-post/Real_Home_Customize_Property_Post_Fields.php:70
+msgid "Floor Plan"
+msgstr ""
+
+#: inc/customizer/controls/typography/Real_Home_Customize_Typography_Control.php:137
+msgid "Font Family"
+msgstr ""
+
+#: inc/customizer/controls/typography/Real_Home_Customize_Typography_Control.php:190
+msgid "Font Size"
+msgstr ""
+
+#: inc/customizer/controls/typography/Real_Home_Customize_Typography_Control.php:147
+msgid "Font Weight"
+msgstr ""
+
+#: inc/customizer/builder/footer/Real_Home_Customizer_Footer_Builder.php:291
+#: inc/customizer/builder/footer/Real_Home_Customizer_Footer_Builder.php:332
+#: inc/customizer/builder/footer/Real_Home_Customizer_Footer_Builder.php:343
+msgid "Footer Builder"
+msgstr ""
+
+#: inc/customizer/options/single-page/Real_Home_Customize_Single_Page_Content_Fields.php:34
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Content_Fields.php:38
+msgid "Footer Elements"
+msgstr ""
+
+#: functions.php:72
+#: inc/customizer/builder/footer/Real_Home_Customizer_Footer_Builder.php:236
+#: inc/customizer/builder/footer/Real_Home_Customizer_Footer_Builder.php:409
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:205
+#, php-format
+msgid "Footer Sidebar %d "
+msgstr ""
+
+#: inc/customizer/builder/footer/Real_Home_Customizer_Footer_Builder.php:256
+#: inc/customizer/builder/footer/Real_Home_Customizer_Footer_Builder.php:417
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: inc/customizer/builder/footer/Real_Home_Customizer_Footer_Builder.php:261
+#: inc/customizer/builder/footer/Real_Home_Customizer_Footer_Builder.php:425
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: inc/customizer/builder/footer/Real_Home_Customizer_Footer_Builder.php:266
+#: inc/customizer/builder/footer/Real_Home_Customizer_Footer_Builder.php:433
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: inc/customizer/builder/footer/Real_Home_Customizer_Footer_Builder.php:271
+#: inc/customizer/builder/footer/Real_Home_Customizer_Footer_Builder.php:441
+msgid "Footer Sidebar 4"
+msgstr ""
+
+#: inc/customizer/builder/footer/Real_Home_Customizer_Footer_Builder.php:276
+#: inc/customizer/builder/footer/Real_Home_Customizer_Footer_Builder.php:449
+msgid "Footer Sidebar 5"
+msgstr ""
+
+#: inc/customizer/builder/footer/Real_Home_Customizer_Footer_Builder.php:281
+#: inc/customizer/builder/footer/Real_Home_Customizer_Footer_Builder.php:457
+msgid "Footer Sidebar 6"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:290
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_General_Fields.php:40
+msgid "Front Page"
+msgstr ""
+
+#: functions.php:192
+msgid "Front Page: Subscribe Form"
+msgstr ""
+
+#: inc/customizer/options/custom-post/Real_Home_Customize_Property_Post_Fields.php:68
+msgid "Gallery"
+msgstr ""
+
+#: template-parts/front-page/content-banner.php:93
+#: template-parts/front-page/content-featured.php:102
+msgid "garage"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:390
+#: inc/customizer/options/404-page/Real_Home_Customize_404_Page_Content_Fields.php:24
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Clients_Logo_Fields.php:24
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Counter_Fields.php:24
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_News_Blog_Fields.php:19
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Property_Features_Fields.php:19
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Property_Locations_Fields.php:25
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Property_Type_Fields.php:26
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Services_Fields.php:24
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Button_Fields.php:24
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Copyright_Fields.php:24
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Html_Fields.php:24
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Menu_Fields.php:24
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Social_Icons_Fields.php:24
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Account_Fields.php:25
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Button_Fields.php:24
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Html_Fields.php:24
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Primary_Menu_Fields.php:24
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Search_Icon_Fields.php:24
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Site_Identity_Fields.php:24
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Social_Icons_Fields.php:24
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Toggle_Menu_Fields.php:25
+msgid "General"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:256
+#: inc/customizer/builder/footer/Real_Home_Customizer_Footer_Builder.php:296
+msgid "Global"
+msgstr ""
+
+#: inc/hooks/functions.php:742
+msgid "Go to Top"
+msgstr ""
+
+#: inc/classes/Real_Home_Google_Fonts.php:370
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/customizer/controls/background/Real_Home_Customize_Background_Control.php:102
+msgid "Gradient"
+msgstr ""
+
+#: inc/customizer/controls/background/Real_Home_Customize_Background_Control.php:224
+msgid "Gradient Color"
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Post_Title_Fields.php:26
+#: inc/customizer/options/single-page/Real_Home_Customize_Single_Page_Title_Fields.php:26
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Title_Fields.php:26
+msgid "H1"
+msgstr ""
+
+#: inc/customizer/options/global/Real_Home_Customize_Global_Color_Fields.php:44
+msgid "H1 -H6"
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Post_Title_Fields.php:27
+#: inc/customizer/options/single-page/Real_Home_Customize_Single_Page_Title_Fields.php:27
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Title_Fields.php:27
+msgid "H2"
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Post_Title_Fields.php:28
+#: inc/customizer/options/single-page/Real_Home_Customize_Single_Page_Title_Fields.php:28
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Title_Fields.php:28
+msgid "H3"
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Post_Title_Fields.php:29
+#: inc/customizer/options/single-page/Real_Home_Customize_Single_Page_Title_Fields.php:29
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Title_Fields.php:29
+msgid "H4"
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Post_Title_Fields.php:30
+#: inc/customizer/options/single-page/Real_Home_Customize_Single_Page_Title_Fields.php:30
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Title_Fields.php:30
+msgid "H5"
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Post_Title_Fields.php:31
+#: inc/customizer/options/single-page/Real_Home_Customize_Single_Page_Title_Fields.php:31
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Title_Fields.php:31
+msgid "H6"
+msgstr ""
+
+#: inc/customizer/builder/footer/Real_Home_Customizer_Footer_Builder.php:486
+#: inc/customizer/builder/header/Real_Home_Customizer_Header_Builder.php:296
+#: inc/customizer/builder/header/Real_Home_Customizer_Header_Builder.php:338
+#: inc/customizer/builder/header/Real_Home_Customizer_Header_Builder.php:349
+#: inc/customizer/builder/header/Real_Home_Customizer_Header_Builder.php:451
+msgid "Header Builder"
+msgstr ""
+
+#: inc/customizer/options/single-page/Real_Home_Customize_Single_Page_Content_Fields.php:22
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Content_Fields.php:23
+msgid "Header Elements"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:380
+msgid "Header General"
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Post_Title_Fields.php:22
+#: inc/customizer/options/single-page/Real_Home_Customize_Single_Page_Title_Fields.php:22
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Title_Fields.php:22
+msgid "Heading Tag"
+msgstr ""
+
+#: inc/customizer/controls/repeater/Real_Home_Customize_Repeater_Control.php:388
+msgid "Hex Value"
+msgstr ""
+
+#: inc/classes/Real_Home_Breadcrumb_Trail.php:260
+msgid "Home"
+msgstr ""
+
+#: inc/customizer/controls/box-shadow/Real_Home_Customize_Box_Shadow_Control.php:88
+msgid "Horizontal Length"
+msgstr ""
+
+#: inc/classes/Real_Home_Breadcrumb_Trail.php:766
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: functions.php:148
+msgid "houses booked"
+msgstr ""
+
+#: functions.php:143
+msgid "houses for rent"
+msgstr ""
+
+#: functions.php:133
+msgid "houses for sale"
+msgstr ""
+
+#: functions.php:138
+msgid "houses sold"
+msgstr ""
+
+#: inc/customizer/options/global/Real_Home_Customize_Global_Color_Fields.php:78
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Site_Identity_Fields.php:85
+msgid "Hover"
+msgstr ""
+
+#: inc/customizer/builder/footer/Real_Home_Customizer_Footer_Builder.php:251
+#: inc/customizer/builder/footer/Real_Home_Customizer_Footer_Builder.php:401
+#: inc/customizer/builder/header/Real_Home_Customizer_Header_Builder.php:286
+#: inc/customizer/builder/header/Real_Home_Customizer_Header_Builder.php:431
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Html_Fields.php:44
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Html_Fields.php:44
+msgid "HTML"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://aarambhathemes.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://aarambhathemes.com/themes/real-home/"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:917
+#: inc/customizer/Real_Home_Customizer.php:1080
+#: inc/customizer/Real_Home_Customizer.php:1146
+msgid "Icon"
+msgstr ""
+
+#: inc/customizer/controls/background/Real_Home_Customize_Background_Control.php:109
+#: inc/customizer/controls/background/Real_Home_Customize_Background_Control.php:119
+#: inc/customizer/options/404-page/Real_Home_Customize_404_Page_Content_Fields.php:48
+#: inc/customizer/options/404-page/Real_Home_Customize_404_Page_Content_Fields.php:60
+msgid "Image"
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Post_Featured_Image_Fields.php:39
+#: inc/customizer/options/custom-post/Real_Home_Customize_Agent_Post_Fields.php:76
+#: inc/customizer/options/custom-post/Real_Home_Customize_Property_Post_Fields.php:109
+#: inc/customizer/options/custom-posts/Real_Home_Customize_Custom_Archive_Property_Fields.php:42
+#: inc/customizer/options/single-page/Real_Home_Customize_Single_Page_Featured_Image_Fields.php:39
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Featured_Image_Fields.php:39
+msgid "Image Size"
+msgstr ""
+
+#: functions.php:120 functions.php:124 functions.php:128
+msgid ""
+"Incididunt ut labore et dolore, Lorem ipsum dolor sit amet, consectetur "
+"adipisicing elit, sed do eiusmod tempor magna aliqua."
+msgstr ""
+
+#: inc/customizer/controls/box-shadow/Real_Home_Customize_Box_Shadow_Control.php:234
+msgid "Inset"
+msgstr ""
+
+#: 404.php:58
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Social_Icons_Fields.php:85
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Social_Icons_Fields.php:85
+msgid "ITEM"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:1027
+msgid "Item"
+msgstr ""
+
+#: inc/classes/Real_Home_Helper.php:40
+msgid "Item Not Found..."
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Post_Featured_Image_Fields.php:47
+#: inc/customizer/options/custom-post/Real_Home_Customize_Agent_Post_Fields.php:84
+#: inc/customizer/options/custom-post/Real_Home_Customize_Property_Post_Fields.php:117
+#: inc/customizer/options/custom-posts/Real_Home_Customize_Custom_Archive_Property_Fields.php:50
+#: inc/customizer/options/single-page/Real_Home_Customize_Single_Page_Featured_Image_Fields.php:47
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Featured_Image_Fields.php:47
+msgid "Large"
+msgstr ""
+
+#: template-parts/front-page/content-news.php:33
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_News_Blog_Fields.php:40
+msgid "latest news and blog"
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Sidebar_Fields.php:32
+#: inc/customizer/options/single-page/Real_Home_Customize_Single_Page_Sidebar_Fields.php:32
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Sidebar_Fields.php:32
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Bottom_Row_Fields.php:26
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Main_Row_Fields.php:26
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Top_Row_Fields.php:26
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Bottom_Row_Fields.php:41
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Main_Row_Fields.php:41
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Top_Row_Fields.php:41
+msgid "Left Column"
+msgstr ""
+
+#: inc/customizer/controls/typography/Real_Home_Customize_Typography_Control.php:304
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/classes/Real_Home_Google_Fonts.php:415
+msgid "Light 200"
+msgstr ""
+
+#: inc/classes/Real_Home_Google_Fonts.php:416
+msgid "Light 200 Italic"
+msgstr ""
+
+#: inc/customizer/controls/repeater/Real_Home_Customize_Repeater_Control.php:238
+#, php-format
+msgid "Limit: %s rows"
+msgstr ""
+
+#: inc/customizer/controls/typography/Real_Home_Customize_Typography_Control.php:247
+msgid "Line Height"
+msgstr ""
+
+#: inc/customizer/controls/typography/Real_Home_Customize_Typography_Control.php:180
+msgid "Line through"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:872
+#: inc/customizer/options/global/Real_Home_Customize_Global_Color_Fields.php:73
+msgid "Link"
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Button_Fields.php:66
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Copyright_Fields.php:56
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Social_Icons_Fields.php:57
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Account_Fields.php:111
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Button_Fields.php:66
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Social_Icons_Fields.php:57
+msgid "Link Open"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:1094
+msgid "Link Type"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:67
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. Name of the template
+msgid "Location Listing Page"
+msgstr ""
+
+#: template-parts/header/account.php:23
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Account_Fields.php:82
+msgid "Log In"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:1125
+#: template-parts/footer/footer_multi_buttons.php:14
+msgid "log in / register"
+msgstr ""
+
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Account_Fields.php:50
+msgid "LOGIN"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:983
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Account_Fields.php:75
+msgid "LOGOUT"
+msgstr ""
+
+#: inc/customizer/controls/typography/Real_Home_Customize_Typography_Control.php:164
+msgid "Lowercase"
+msgstr ""
+
+#: inc/customizer/options/custom-post/Real_Home_Customize_Property_Post_Fields.php:66
+msgid "Main Detail"
+msgstr ""
+
+#: inc/customizer/builder/footer/Real_Home_Customizer_Footer_Builder.php:301
+#: inc/customizer/builder/footer/Real_Home_Customizer_Footer_Builder.php:360
+#: inc/customizer/builder/header/Real_Home_Customizer_Header_Builder.php:307
+#: inc/customizer/builder/header/Real_Home_Customizer_Header_Builder.php:366
+msgid "Main Row"
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Button_Fields.php:120
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Copyright_Fields.php:80
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Html_Fields.php:71
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Menu_Fields.php:81
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Social_Icons_Fields.php:76
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Social_Icons_Fields.php:140
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Account_Fields.php:157
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Button_Fields.php:112
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Html_Fields.php:71
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Primary_Menu_Fields.php:82
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Search_Icon_Fields.php:64
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Site_Identity_Fields.php:131
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Social_Icons_Fields.php:76
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Social_Icons_Fields.php:140
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Toggle_Menu_Fields.php:63
+msgid "Margin"
+msgstr ""
+
+#: inc/customizer/options/global/Real_Home_Customize_Global_Container_Fields.php:26
+msgid "Max Width"
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Post_Featured_Image_Fields.php:45
+#: inc/customizer/options/custom-post/Real_Home_Customize_Agent_Post_Fields.php:82
+#: inc/customizer/options/custom-post/Real_Home_Customize_Property_Post_Fields.php:115
+#: inc/customizer/options/custom-posts/Real_Home_Customize_Custom_Archive_Property_Fields.php:48
+#: inc/customizer/options/single-page/Real_Home_Customize_Single_Page_Featured_Image_Fields.php:45
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Featured_Image_Fields.php:45
+msgid "Medium"
+msgstr ""
+
+#: inc/classes/Real_Home_Google_Fonts.php:421
+msgid "Medium 500"
+msgstr ""
+
+#: inc/classes/Real_Home_Google_Fonts.php:422
+msgid "Medium 500 Italic"
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Post_Featured_Image_Fields.php:46
+#: inc/customizer/options/custom-post/Real_Home_Customize_Agent_Post_Fields.php:83
+#: inc/customizer/options/custom-post/Real_Home_Customize_Property_Post_Fields.php:116
+#: inc/customizer/options/custom-posts/Real_Home_Customize_Custom_Archive_Property_Fields.php:49
+#: inc/customizer/options/single-page/Real_Home_Customize_Single_Page_Featured_Image_Fields.php:46
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Featured_Image_Fields.php:46
+msgid "Medium Large"
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Menu_Fields.php:52
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Primary_Menu_Fields.php:53
+msgid "Menu Spacing"
+msgstr ""
+
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Bottom_Row_Fields.php:22
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Main_Row_Fields.php:22
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Top_Row_Fields.php:22
+msgid "Min Height"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: inc/classes/Real_Home_Breadcrumb_Trail.php:270
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: inc/classes/Real_Home_Breadcrumb_Trail.php:732
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/classes/Real_Home_Breadcrumb_Trail.php:749
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: functions.php:71
+#: inc/customizer/builder/header/Real_Home_Customizer_Header_Builder.php:281
+#: inc/customizer/builder/header/Real_Home_Customizer_Header_Builder.php:391
+msgid "Mobile Menu"
+msgstr ""
+
+#: inc/customizer/builder/Real_Home_Customizer_Builder.php:141
+#: inc/customizer/builder/header/Real_Home_Customizer_Header_Builder.php:302
+msgid "Mobile/Tablet"
+msgstr ""
+
+#: inc/classes/Real_Home_Breadcrumb_Trail.php:783
+#: inc/classes/Real_Home_Breadcrumb_Trail.php:839
+#: inc/classes/Real_Home_Breadcrumb_Trail.php:1209
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: template-parts/header/account.php:13
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Account_Fields.php:57
+msgid "My Account"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:453
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_General_Fields.php:20
+msgid "News & Blog"
+msgstr ""
+
+#: inc/classes/Real_Home_Helper.php:434
+msgid "Next Post"
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Pagination_Fields.php:26
+msgid "Next/Prev"
+msgstr ""
+
+#: inc/customizer/controls/repeater/Real_Home_Customize_Repeater_Control.php:449
+#: inc/customizer/controls/repeater/Real_Home_Customize_Repeater_Control.php:454
+msgid "No File Selected"
+msgstr ""
+
+#: inc/customizer/controls/repeater/Real_Home_Customize_Repeater_Control.php:413
+#: inc/customizer/controls/repeater/Real_Home_Customize_Repeater_Control.php:418
+msgid "No Image Selected"
+msgstr ""
+
+#: inc/customizer/controls/background/Real_Home_Customize_Background_Control.php:175
+msgid "No Repeat"
+msgstr ""
+
+#: inc/customizer/options/custom-post/Real_Home_Customize_Property_Post_Fields.php:95
+msgid "No. of Posts"
+msgstr ""
+
+#: inc/customizer/controls/border/Real_Home_Customize_Border_Control.php:140
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Sidebar_Fields.php:34
+#: inc/customizer/options/single-page/Real_Home_Customize_Single_Page_Sidebar_Fields.php:34
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Sidebar_Fields.php:34
+msgid "None"
+msgstr ""
+
+#: inc/customizer/options/global/Real_Home_Customize_Global_Color_Fields.php:77
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Site_Identity_Fields.php:84
+msgid "Normal"
+msgstr ""
+
+#: inc/classes/Real_Home_Google_Fonts.php:419
+msgid "Normal 400"
+msgstr ""
+
+#: inc/classes/Real_Home_Google_Fonts.php:420
+msgid "Normal 400 Italic"
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Sidebar_1_Fields.php:20
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Sidebar_2_Fields.php:20
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Sidebar_3_Fields.php:20
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Sidebar_4_Fields.php:20
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Sidebar_5_Fields.php:20
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Sidebar_6_Fields.php:20
+msgid "NOTE"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:913
+msgid "Number"
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Pagination_Fields.php:27
+msgid "Numeric"
+msgstr ""
+
+#. 1: title.
+#: comments.php:43
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: inc/customizer/options/custom-post/Real_Home_Customize_Property_Post_Fields.php:67
+msgid "Other Detail"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:482
+msgid "Our Mission"
+msgstr ""
+
+#: template-parts/front-page/content-clients.php:17
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Clients_Logo_Fields.php:44
+msgid "our partners"
+msgstr ""
+
+#: inc/customizer/controls/typography/Real_Home_Customize_Typography_Control.php:178
+msgid "Overline"
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Bottom_Row_Fields.php:101
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Button_Fields.php:101
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Copyright_Fields.php:70
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Html_Fields.php:60
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Main_Row_Fields.php:118
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Menu_Fields.php:70
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Social_Icons_Fields.php:65
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Social_Icons_Fields.php:121
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Top_Row_Fields.php:113
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Account_Fields.php:146
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Button_Fields.php:101
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Html_Fields.php:60
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Primary_Menu_Fields.php:71
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Search_Icon_Fields.php:53
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Site_Identity_Fields.php:120
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Social_Icons_Fields.php:65
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Social_Icons_Fields.php:121
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Toggle_Menu_Fields.php:52
+msgid "Padding"
+msgstr ""
+
+#. %s is the page number.
+#: inc/classes/Real_Home_Breadcrumb_Trail.php:266
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:696
+#: inc/customizer/Real_Home_Customizer.php:731
+msgid "Page Content"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:346
+#: inc/customizer/Real_Home_Customizer.php:516
+#: inc/customizer/Real_Home_Customizer.php:562
+#: inc/customizer/Real_Home_Customizer.php:597
+#: inc/customizer/Real_Home_Customizer.php:619
+#: inc/customizer/Real_Home_Customizer.php:640
+#: inc/customizer/Real_Home_Customizer.php:689
+#: inc/customizer/Real_Home_Customizer.php:725
+msgid "Page Header"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:703
+#: inc/customizer/options/404-page/Real_Home_Customize_404_Page_Header_Fields.php:27
+#: inc/customizer/options/custom-post/Real_Home_Customize_Agent_Post_Fields.php:28
+#: inc/customizer/options/single-page/Real_Home_Customize_Single_Page_Header_Fields.php:27
+msgid "Page Title"
+msgstr ""
+
+#: inc/hooks/functions.php:485 inc/hooks/functions.php:664
+msgid "Pages:"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:546
+msgid "Pagination"
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Pagination_Fields.php:22
+msgid "Pagination Type"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:1044
+#: template-parts/header/contact_info.php:15
+msgid "phone number"
+msgstr ""
+
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Search_Icon_Fields.php:43
+msgid "Placeholder"
+msgstr ""
+
+#: inc/customizer/options/global/Real_Home_Customize_Global_Placeholder_Fields.php:24
+msgid "Placeholder Color"
+msgstr ""
+
+#: inc/template-tags.php:181 inc/template-tags.php:183
+#: inc/customizer/Real_Home_Customizer.php:371
+#: inc/customizer/options/global/Real_Home_Customize_Global_Placeholder_Fields.php:34
+msgid "Placeholder Image"
+msgstr ""
+
+#: inc/customizer/controls/background/Real_Home_Customize_Background_Control.php:137
+msgid "Position"
+msgstr ""
+
+#: inc/classes/Real_Home_Helper.php:411
+msgid "Post"
+msgstr ""
+
+#: inc/classes/Real_Home_Helper.php:202
+msgid "Post author"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:34
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:522
+#: inc/customizer/Real_Home_Customizer.php:568
+#: inc/customizer/Real_Home_Customizer.php:603
+#: inc/customizer/Real_Home_Customizer.php:625
+#: inc/customizer/Real_Home_Customizer.php:646
+msgid "Post Content"
+msgstr ""
+
+#: inc/customizer/options/custom-post/Real_Home_Customize_Property_Post_Fields.php:45
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Header_Fields.php:46
+msgid "Post Date"
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Posts_Layout_Fields.php:29
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_News_Blog_Fields.php:84
+msgid "Post Excerpt"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:352
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Posts_Layout_Fields.php:28
+#: inc/customizer/options/custom-post/Real_Home_Customize_Property_Post_Fields.php:29
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Header_Fields.php:28
+msgid "Post Meta"
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Posts_Layout_Fields.php:38
+#: inc/customizer/options/custom-post/Real_Home_Customize_Property_Post_Fields.php:38
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Header_Fields.php:37
+msgid "Post Meta Elements"
+msgstr ""
+
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Content_Fields.php:45
+msgid "Post Navigation"
+msgstr ""
+
+#: inc/classes/Real_Home_Helper.php:413
+msgid "Post navigation"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:534
+#: inc/customizer/Real_Home_Customizer.php:575
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Posts_Layout_Fields.php:27
+#: inc/customizer/options/custom-post/Real_Home_Customize_Property_Post_Fields.php:28
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_News_Blog_Fields.php:82
+#: inc/customizer/options/single-page/Real_Home_Customize_Single_Page_Content_Fields.php:26
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Content_Fields.php:29
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Header_Fields.php:27
+msgid "Post Title"
+msgstr ""
+
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_News_Blog_Fields.php:51
+msgid "Posts by Category"
+msgstr ""
+
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_News_Blog_Fields.php:62
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Property_Features_Fields.php:49
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Property_Locations_Fields.php:57
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Property_Type_Fields.php:48
+msgid "Posts Limit"
+msgstr ""
+
+#: inc/customizer/options/custom-post/Real_Home_Customize_Agent_Post_Fields.php:62
+msgid "Posts Per Page"
+msgstr ""
+
+#: inc/classes/Real_Home_Helper.php:421
+msgid "Previous Post"
+msgstr ""
+
+#: inc/customizer/options/global/Real_Home_Customize_Global_Color_Fields.php:29
+msgid "Primary"
+msgstr ""
+
+#: functions.php:70
+#: inc/customizer/builder/header/Real_Home_Customizer_Header_Builder.php:256
+#: inc/customizer/builder/header/Real_Home_Customizer_Header_Builder.php:383
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:661
+msgid "Property"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:427
+#: inc/customizer/Real_Home_Customizer.php:506
+msgid "Property Agents"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:269
+msgid "Property Archive Posts"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:409
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_General_Fields.php:28
+msgid "Property Featured"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:609
+msgid "Property Listing"
+msgstr ""
+
+#: inc/customizer/options/custom-post/Real_Home_Customize_Property_Post_Fields.php:46
+msgid "Property Location"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:421
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_General_Fields.php:27
+msgid "Property Locations"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:403
+msgid "Property Search"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:273
+msgid "Property Single Post"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:397
+msgid "Property Slider"
+msgstr ""
+
+#: inc/customizer/options/custom-post/Real_Home_Customize_Property_Post_Fields.php:47
+msgid "Property Status"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:1021
+#: inc/customizer/options/custom-post/Real_Home_Customize_Property_Post_Fields.php:48
+msgid "Property Type"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:415
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_General_Fields.php:26
+msgid "Property Types"
+msgstr ""
+
+#: inc/customizer/controls/border/Real_Home_Customize_Border_Control.php:173
+msgid "Radius"
+msgstr ""
+
+#: inc/classes/Real_Home_Helper.php:727
+#: inc/customizer/Real_Home_Customizer.php:540
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Posts_Layout_Fields.php:30
+msgid "Read More"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#. Name of the theme
+msgid "Real Home"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Real Home is a super flexible and modernized free WordPress Theme for real "
+"estate agents and companies. It facilitates purpose oriented designs with "
+"innumerable powerful features that a real estate business can benefit from. "
+"Real Home is gracefully handicraft to beautifully present properties "
+"information to website visitors and smoothens its structure for making "
+"property management easier. It is a unique theme with multiple varieties "
+"which saves both time and money when creating your seller/rental platforms."
+msgstr ""
+
+#: inc/back-compat.php:33 inc/back-compat.php:43 inc/back-compat.php:56
+#, php-format
+msgid ""
+"Real Home requires at least WordPress version 5.6. You are running version "
+"%s. Please upgrade and try again."
+msgstr ""
+
+#: template-parts/front-page/content-property-location.php:41
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Property_Locations_Fields.php:46
+msgid "Reality Property Location"
+msgstr ""
+
+#: inc/classes/Real_Home_Helper.php:601
+#: inc/customizer/options/custom-post/Real_Home_Customize_Property_Post_Fields.php:87
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Content_Fields.php:47
+msgid "Related Posts"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:631
+#: inc/customizer/Real_Home_Customizer.php:652
+#: inc/customizer/options/custom-post/Real_Home_Customize_Agent_Post_Fields.php:49
+msgid "Related Properties"
+msgstr ""
+
+#: inc/customizer/controls/repeater/Real_Home_Customize_Repeater_Control.php:423
+#: inc/customizer/controls/repeater/Real_Home_Customize_Repeater_Control.php:488
+msgid "Remove"
+msgstr ""
+
+#: inc/customizer/controls/background/Real_Home_Customize_Background_Control.php:171
+#: inc/customizer/controls/background/Real_Home_Customize_Background_Control.php:176
+msgid "Repeat"
+msgstr ""
+
+#: inc/customizer/controls/background/Real_Home_Customize_Background_Control.php:177
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: inc/customizer/controls/background/Real_Home_Customize_Background_Control.php:178
+msgid "Repeat Vertically"
+msgstr ""
+
+#: 404.php:64
+msgid "Return Home"
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Sidebar_Fields.php:33
+#: inc/customizer/options/single-page/Real_Home_Customize_Single_Page_Sidebar_Fields.php:33
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Sidebar_Fields.php:33
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Bottom_Row_Fields.php:66
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Main_Row_Fields.php:66
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Top_Row_Fields.php:66
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Bottom_Row_Fields.php:81
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Main_Row_Fields.php:81
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Top_Row_Fields.php:81
+msgid "Right Column"
+msgstr ""
+
+#: inc/customizer/controls/repeater/Real_Home_Customize_Repeater_Control.php:69
+msgid "row"
+msgstr ""
+
+#: inc/customizer/controls/background/Real_Home_Customize_Background_Control.php:162
+msgid "Scroll"
+msgstr ""
+
+#: inc/customizer/builder/footer/Real_Home_Customizer_Footer_Builder.php:465
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Back_To_Top_Fields.php:23
+msgid "Scroll to Top"
+msgstr ""
+
+#: inc/customizer/options/404-page/Real_Home_Customize_404_Page_Content_Fields.php:52
+msgid "Search"
+msgstr ""
+
+#: inc/customizer/builder/header/Real_Home_Customizer_Header_Builder.php:266
+#: inc/customizer/builder/header/Real_Home_Customizer_Header_Builder.php:423
+msgid "Search Icon"
+msgstr ""
+
+#. %s is the search query.
+#: inc/classes/Real_Home_Breadcrumb_Trail.php:264
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: template-parts/header/search_icon.php:13
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Search_Icon_Fields.php:41
+msgid "Search..."
+msgstr ""
+
+#: inc/customizer/options/global/Real_Home_Customize_Global_Color_Fields.php:30
+msgid "Secondary"
+msgstr ""
+
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Clients_Logo_Fields.php:46
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_News_Blog_Fields.php:42
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Property_Features_Fields.php:40
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Property_Locations_Fields.php:48
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Services_Fields.php:46
+msgid "Section Heading"
+msgstr ""
+
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_News_Blog_Fields.php:90
+msgid "SECTION STYLE"
+msgstr ""
+
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Clients_Logo_Fields.php:53
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Counter_Fields.php:43
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Property_Features_Fields.php:62
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Property_Locations_Fields.php:87
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Property_Type_Fields.php:69
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Services_Fields.php:53
+msgid "SECTION STYLING"
+msgstr ""
+
+#: inc/customizer/options/single-page/Real_Home_Customize_Single_Page_Featured_Image_Fields.php:23
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Featured_Image_Fields.php:23
+msgid ""
+"Select custom aspect ratio for featured image. Choose it wisely for better "
+"appearance."
+msgstr ""
+
+#: inc/customizer/controls/background/Real_Home_Customize_Background_Control.php:125
+msgid "Select Image"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:866
+msgid "Select Network"
+msgstr ""
+
+#: inc/customizer/options/single-page/Real_Home_Customize_Single_Page_Sidebar_Fields.php:23
+msgid "Select sidebar layout for single page."
+msgstr ""
+
+#: inc/classes/Real_Home_Google_Fonts.php:423
+#: inc/classes/Real_Home_Google_Fonts.php:424
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: inc/classes/Real_Home_Google_Fonts.php:425
+msgid "Semi-Bold 600 Italic"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:958
+msgid "Service"
+msgstr ""
+
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Account_Fields.php:128
+msgid "Set account border width."
+msgstr ""
+
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Account_Fields.php:158
+msgid "Set account margin."
+msgstr ""
+
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Account_Fields.php:147
+msgid "Set account padding."
+msgstr ""
+
+#: inc/customizer/options/404-page/Real_Home_Customize_404_Page_Content_Fields.php:70
+msgid "Set background image for 404 page content."
+msgstr ""
+
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Clients_Logo_Fields.php:63
+msgid "Set Background Image for container."
+msgstr ""
+
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Counter_Fields.php:53
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_News_Blog_Fields.php:100
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Property_Features_Fields.php:72
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Property_Locations_Fields.php:97
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Property_Type_Fields.php:79
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Services_Fields.php:63
+msgid "Set background image for container."
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Top_Row_Fields.php:83
+msgid "Set Background Image for footer top row."
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Main_Row_Fields.php:83
+msgid "Set Background Image for main row"
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Bottom_Row_Fields.php:88
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Bottom_Row_Fields.php:98
+msgid "Set Background overlay color for bottom row container."
+msgstr ""
+
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Clients_Logo_Fields.php:79
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Counter_Fields.php:64
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_News_Blog_Fields.php:116
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Property_Features_Fields.php:88
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Property_Locations_Fields.php:112
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Property_Type_Fields.php:95
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Services_Fields.php:79
+msgid "Set background overlay color for container."
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Main_Row_Fields.php:99
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Main_Row_Fields.php:98
+msgid "Set Background overlay color for main row container."
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Top_Row_Fields.php:94
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Top_Row_Fields.php:98
+msgid "Set Background overlay color for top row container."
+msgstr ""
+
+#: inc/customizer/options/global/Real_Home_Customize_Global_Page_Header_Fields.php:34
+msgid "Set Background overlay color on page header container."
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Social_Icons_Fields.php:103
+msgid "Set border width to each item."
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Button_Fields.php:83
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Button_Fields.php:83
+msgid "Set button border width."
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Button_Fields.php:121
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Button_Fields.php:113
+msgid "Set button margin."
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Button_Fields.php:102
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Button_Fields.php:102
+msgid "Set button padding."
+msgstr ""
+
+#: inc/customizer/options/global/Real_Home_Customize_Global_Placeholder_Fields.php:25
+msgid "Set color in placeholder if there isn’t a featured image."
+msgstr ""
+
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Site_Identity_Fields.php:132
+msgid "Set container margin."
+msgstr ""
+
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Site_Identity_Fields.php:121
+msgid "Set container padding."
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Post_Featured_Image_Fields.php:23
+msgid ""
+"Set custom aspect ratio for featured image. Choose proper aspects for better "
+"appearance."
+msgstr ""
+
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Social_Icons_Fields.php:103
+msgid "Set each item border width."
+msgstr ""
+
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Social_Icons_Fields.php:141
+msgid "Set each item margin."
+msgstr ""
+
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Social_Icons_Fields.php:122
+msgid "Set each item padding."
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Bottom_Row_Fields.php:104
+msgid "Set footer bottom row padding."
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Main_Row_Fields.php:121
+msgid "Set footer main row padding."
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Top_Row_Fields.php:116
+msgid "Set footer top row padding."
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Html_Fields.php:72
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Html_Fields.php:72
+msgid "Set HTML container margin."
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Html_Fields.php:61
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Html_Fields.php:61
+msgid "Set HTML container padding."
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Social_Icons_Fields.php:141
+msgid "Set margin to each item."
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Menu_Fields.php:82
+msgid "Set Margin to the Footer Menu."
+msgstr ""
+
+#: inc/customizer/options/global/Real_Home_Customize_Global_Container_Fields.php:27
+msgid "Set Max width for container. Default value is 1170px."
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Social_Icons_Fields.php:122
+msgid "Set padding to each item."
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Menu_Fields.php:71
+msgid "Set Padding to the Footer Menu."
+msgstr ""
+
+#: inc/customizer/options/global/Real_Home_Customize_Global_Placeholder_Fields.php:35
+msgid ""
+"Set placeholder image for no featured image. It will replace the placeholder "
+"color."
+msgstr ""
+
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_News_Blog_Fields.php:52
+msgid ""
+"Set post query to load with specific category. It will load the latest post "
+"by default."
+msgstr ""
+
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Primary_Menu_Fields.php:83
+msgid "Set primary menu container margin."
+msgstr ""
+
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Primary_Menu_Fields.php:72
+msgid "Set primary menu container padding."
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Post_Featured_Image_Fields.php:40
+#: inc/customizer/options/custom-post/Real_Home_Customize_Agent_Post_Fields.php:77
+#: inc/customizer/options/custom-post/Real_Home_Customize_Property_Post_Fields.php:110
+#: inc/customizer/options/custom-posts/Real_Home_Customize_Custom_Archive_Property_Fields.php:43
+#: inc/customizer/options/single-page/Real_Home_Customize_Single_Page_Featured_Image_Fields.php:40
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Featured_Image_Fields.php:40
+msgid ""
+"Set proper size for featured image. Selecting a bigger image size may "
+"display a better appearance but takes more time on loading websites."
+msgstr ""
+
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Search_Icon_Fields.php:65
+msgid "Set search icon container margin."
+msgstr ""
+
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Search_Icon_Fields.php:54
+msgid "Set search icon container padding."
+msgstr ""
+
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Search_Icon_Fields.php:44
+msgid "Set Search Model with placeholder."
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Social_Icons_Fields.php:77
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Social_Icons_Fields.php:77
+msgid "Set social container margin."
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Social_Icons_Fields.php:66
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Social_Icons_Fields.php:66
+msgid "Set social container padding."
+msgstr ""
+
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Toggle_Menu_Fields.php:64
+msgid "Set toggle menu container margin."
+msgstr ""
+
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Toggle_Menu_Fields.php:53
+msgid "Set toggle menu container padding."
+msgstr ""
+
+#: inc/customizer/options/global/Real_Home_Customize_Global_Typography_Fields.php:23
+msgid "Set Typography for the base of your website."
+msgstr ""
+
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Account_Fields.php:100
+msgid "SETTINGS"
+msgstr ""
+
+#: functions.php:179 inc/customizer/Real_Home_Customizer.php:358
+#: inc/customizer/Real_Home_Customizer.php:552
+#: inc/customizer/Real_Home_Customizer.php:587
+#: inc/customizer/Real_Home_Customizer.php:679
+#: inc/customizer/Real_Home_Customizer.php:715
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Sidebar_Fields.php:22
+#: inc/customizer/options/single-page/Real_Home_Customize_Single_Page_Sidebar_Fields.php:22
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Sidebar_Fields.php:22
+msgid "Sidebar"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:294
+msgid "Single Page"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:264
+msgid "Single Post"
+msgstr ""
+
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Site_Identity_Fields.php:111
+msgid "SITE IDENTIFY CONTAINER"
+msgstr ""
+
+#: inc/customizer/builder/header/Real_Home_Customizer_Header_Builder.php:251
+msgid "Site Identity"
+msgstr ""
+
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Site_Identity_Fields.php:53
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Site_Identity_Fields.php:78
+msgid "Site Title"
+msgstr ""
+
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Site_Identity_Fields.php:69
+msgid "SITE TITLE & TAGLINE"
+msgstr ""
+
+#: inc/customizer/controls/background/Real_Home_Customize_Background_Control.php:186
+msgid "Size"
+msgstr ""
+
+#: header.php:71
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Primary_Menu_Fields.php:54
+msgid "Slide to change the value of Parent Menu Spacing."
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Menu_Fields.php:53
+msgid "Slide to set Menu Spacing."
+msgstr ""
+
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Banner_Slider_Fields.php:22
+msgid "Slider"
+msgstr ""
+
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Banner_Slider_Fields.php:31
+msgid "Slides Limit"
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Post_Featured_Image_Fields.php:44
+#: inc/customizer/options/custom-post/Real_Home_Customize_Agent_Post_Fields.php:81
+#: inc/customizer/options/custom-post/Real_Home_Customize_Property_Post_Fields.php:114
+#: inc/customizer/options/custom-posts/Real_Home_Customize_Custom_Archive_Property_Fields.php:47
+#: inc/customizer/options/single-page/Real_Home_Customize_Single_Page_Featured_Image_Fields.php:44
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Featured_Image_Fields.php:44
+msgid "Small"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:364
+#: inc/customizer/Real_Home_Customizer.php:882
+msgid "Social"
+msgstr ""
+
+#: inc/customizer/options/global/Real_Home_Customize_Global_Social_Fields.php:20
+msgid "SOCIAL ICONS"
+msgstr ""
+
+#: inc/customizer/builder/footer/Real_Home_Customizer_Footer_Builder.php:241
+#: inc/customizer/builder/footer/Real_Home_Customizer_Footer_Builder.php:385
+#: inc/customizer/builder/header/Real_Home_Customizer_Header_Builder.php:261
+#: inc/customizer/builder/header/Real_Home_Customizer_Header_Builder.php:407
+msgid "Social Icons"
+msgstr ""
+
+#: inc/customizer/options/custom-post/Real_Home_Customize_Agent_Post_Fields.php:48
+msgid "Social Profile"
+msgstr ""
+
+#: inc/customizer/options/global/Real_Home_Customize_Global_Social_Fields.php:32
+msgid "SOCIAL SHARE"
+msgstr ""
+
+#: inc/customizer/controls/border/Real_Home_Customize_Border_Control.php:141
+msgid "Solid"
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/customizer/options/404-page/Real_Home_Customize_404_Page_Content_Fields.php:43
+#: inc/customizer/options/404-page/Real_Home_Customize_404_Page_Header_Fields.php:22
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Page_Header_Fields.php:22
+#: inc/customizer/options/custom-post/Real_Home_Customize_Agent_Post_Fields.php:23
+#: inc/customizer/options/custom-post/Real_Home_Customize_Agent_Post_Fields.php:41
+#: inc/customizer/options/custom-post/Real_Home_Customize_Property_Post_Fields.php:23
+#: inc/customizer/options/custom-post/Real_Home_Customize_Property_Post_Fields.php:60
+#: inc/customizer/options/custom-posts/Real_Home_Customize_Custom_Archive_Property_Fields.php:23
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_General_Fields.php:52
+#: inc/customizer/options/single-page/Real_Home_Customize_Single_Page_Header_Fields.php:22
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Header_Fields.php:22
+msgid "Sort Elements"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:475
+msgid "Sortable Elements"
+msgstr ""
+
+#: inc/customizer/controls/box-shadow/Real_Home_Customize_Box_Shadow_Control.php:178
+msgid "Spread"
+msgstr ""
+
+#: inc/classes/Real_Home_Google_Fonts.php:106
+msgid "Standard Fonts"
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Bottom_Row_Fields.php:31
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Bottom_Row_Fields.php:51
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Bottom_Row_Fields.php:71
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Main_Row_Fields.php:31
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Main_Row_Fields.php:51
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Main_Row_Fields.php:71
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Top_Row_Fields.php:31
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Top_Row_Fields.php:51
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Top_Row_Fields.php:71
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Bottom_Row_Fields.php:46
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Bottom_Row_Fields.php:66
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Bottom_Row_Fields.php:86
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Main_Row_Fields.php:46
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Main_Row_Fields.php:66
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Main_Row_Fields.php:86
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Top_Row_Fields.php:46
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Top_Row_Fields.php:66
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Top_Row_Fields.php:86
+msgid "Start"
+msgstr ""
+
+#: inc/customizer/options/global/Real_Home_Customize_Global_Sidebar_Fields.php:22
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: inc/customizer/controls/border/Real_Home_Customize_Border_Control.php:136
+#: inc/customizer/options/404-page/Real_Home_Customize_404_Page_Content_Fields.php:31
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Clients_Logo_Fields.php:31
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Counter_Fields.php:31
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_News_Blog_Fields.php:28
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Property_Features_Fields.php:26
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Property_Locations_Fields.php:34
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Property_Type_Fields.php:34
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Services_Fields.php:32
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Button_Fields.php:32
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Copyright_Fields.php:31
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Html_Fields.php:31
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Menu_Fields.php:31
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Social_Icons_Fields.php:31
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Account_Fields.php:38
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Button_Fields.php:32
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Html_Fields.php:31
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Primary_Menu_Fields.php:31
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Search_Icon_Fields.php:30
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Site_Identity_Fields.php:36
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Social_Icons_Fields.php:31
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Toggle_Menu_Fields.php:31
+msgid "Style"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:1089
+#: inc/customizer/options/404-page/Real_Home_Customize_404_Page_Content_Fields.php:50
+msgid "Sub Title"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:465
+msgid "Subscribe Form"
+msgstr ""
+
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Site_Identity_Fields.php:62
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Site_Identity_Fields.php:98
+msgid "Tagline"
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Posts_Layout_Fields.php:45
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Content_Fields.php:43
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Header_Fields.php:45
+msgid "Tags"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:1097
+msgid "Tel"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:446
+msgid "Testimonials"
+msgstr ""
+
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Post_Read_More_Fields.php:26
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Button_Fields.php:46
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Account_Fields.php:59
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Account_Fields.php:84
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Button_Fields.php:46
+msgid "Text"
+msgstr ""
+
+#: inc/customizer/controls/typography/Real_Home_Customize_Typography_Control.php:173
+msgid "Text Decoration"
+msgstr ""
+
+#: inc/customizer/controls/typography/Real_Home_Customize_Typography_Control.php:158
+msgid "Text Transform"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:909
+#: inc/customizer/Real_Home_Customizer.php:949
+#: inc/customizer/Real_Home_Customizer.php:987
+#: inc/customizer/Real_Home_Customizer.php:1085
+#: inc/customizer/Real_Home_Customizer.php:1151
+#: inc/customizer/options/404-page/Real_Home_Customize_404_Page_Content_Fields.php:49
+#: inc/customizer/options/blog-posts/Real_Home_Customize_Blog_Page_Header_Fields.php:27
+#: inc/customizer/options/custom-posts/Real_Home_Customize_Custom_Archive_Property_Fields.php:28
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Content_Fields.php:39
+msgid ""
+"To display lists of Footer Elements, enable them. And sort them by drag and "
+"drop."
+msgstr ""
+
+#: inc/customizer/options/single-post/Real_Home_Customize_Single_Post_Header_Fields.php:38
+msgid "To display post meta data and rearrange them with drag and drop."
+msgstr ""
+
+#: inc/customizer/options/custom-post/Real_Home_Customize_Agent_Post_Fields.php:42
+#: inc/customizer/options/custom-post/Real_Home_Customize_Property_Post_Fields.php:61
+msgid "To reorder elements drag and drop them."
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:877
+msgid ""
+"To replace the default social icon, Click below input field and choose the "
+"icon. Example: fa-facebook-f"
+msgstr ""
+
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_General_Fields.php:41
+msgid ""
+"To set <strong>Front Page</strong> enable the option. Else WordPress Static "
+"Page will be your <a data-type=\"section\" data-id=\"static_front_page\" "
+"class=\"customizer-focus\"><strong> Front Page</strong></a>."
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Menu_Fields.php:43
+msgid ""
+"To set menu, go to <a data-type=\"section\" data-id=\"menu_locations\" "
+"class=\"customizer-focus\"><strong>Footer Menu</strong></a>"
+msgstr ""
+
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Toggle_Menu_Fields.php:43
+msgid ""
+"To set menu, go to <a data-type=\"section\" data-id=\"menu_locations\" "
+"class=\"customizer-focus\"><strong>Mobile Menu</strong></a>"
+msgstr ""
+
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Primary_Menu_Fields.php:44
+msgid ""
+"To set menu, go to <a data-type=\"section\" data-id=\"menu_locations\" "
+"class=\"customizer-focus\"><strong>Primary Menu</strong></a>"
+msgstr ""
+
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Bottom_Row_Fields.php:23
+msgid "To set Min Height at the bottom row of Header."
+msgstr ""
+
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Main_Row_Fields.php:23
+msgid "To set Min Height at the main row of Header."
+msgstr ""
+
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Top_Row_Fields.php:23
+msgid "To set Min Height at the top row of Header."
+msgstr ""
+
+#: inc/customizer/options/global/Real_Home_Customize_Global_Page_Header_Fields.php:23
+msgid "To set the background image for the page header container."
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Copyright_Fields.php:57
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Account_Fields.php:112
+msgid "Toggle to enable link open in new window tab."
+msgstr ""
+
+#: inc/customizer/options/global/Real_Home_Customize_Global_Sidebar_Fields.php:23
+msgid "Toggle to enable sticky sidebar. See the effect on content scrolling."
+msgstr ""
+
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Property_Locations_Fields.php:71
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Property_Type_Fields.php:62
+msgid "Toggle to show/hide view all button."
+msgstr ""
+
+#: inc/customizer/controls/background/Real_Home_Customize_Background_Control.php:143
+msgid "Top Center"
+msgstr ""
+
+#: inc/customizer/controls/background/Real_Home_Customize_Background_Control.php:142
+msgid "Top Left"
+msgstr ""
+
+#: inc/customizer/controls/background/Real_Home_Customize_Background_Control.php:144
+msgid "Top Right"
+msgstr ""
+
+#: inc/customizer/builder/footer/Real_Home_Customizer_Footer_Builder.php:300
+#: inc/customizer/builder/footer/Real_Home_Customizer_Footer_Builder.php:352
+#: inc/customizer/builder/header/Real_Home_Customizer_Header_Builder.php:306
+#: inc/customizer/builder/header/Real_Home_Customizer_Header_Builder.php:358
+msgid "Top Row"
+msgstr ""
+
+#: inc/classes/Real_Home_Helper.php:126
+#: inc/customizer/options/global/Real_Home_Customize_Global_Social_Fields.php:46
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:328
+msgid "Typography"
+msgstr ""
+
+#: inc/classes/Real_Home_Google_Fonts.php:431
+#: inc/classes/Real_Home_Google_Fonts.php:432
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: inc/classes/Real_Home_Google_Fonts.php:433
+msgid "Ultra-Bold 900 Italic"
+msgstr ""
+
+#: inc/classes/Real_Home_Google_Fonts.php:412
+#: inc/classes/Real_Home_Google_Fonts.php:413
+msgid "Ultra-Light 100"
+msgstr ""
+
+#: inc/classes/Real_Home_Google_Fonts.php:414
+msgid "Ultra-Light 100 Italic"
+msgstr ""
+
+#: inc/customizer/controls/typography/Real_Home_Customize_Typography_Control.php:179
+msgid "Underline"
+msgstr ""
+
+#: inc/customizer/controls/typography/Real_Home_Customize_Typography_Control.php:163
+msgid "Uppercase"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:1096
+#: inc/customizer/Real_Home_Customizer.php:1105
+#: inc/customizer/Real_Home_Customizer.php:1156
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Button_Fields.php:55
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Account_Fields.php:68
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Account_Fields.php:93
+#: inc/customizer/builder/header/options/Real_Home_Customize_Header_Button_Fields.php:55
+msgid "URL"
+msgstr ""
+
+#: inc/customizer/controls/box-shadow/Real_Home_Customize_Box_Shadow_Control.php:118
+msgid "Vertical Length"
+msgstr ""
+
+#: inc/customizer/options/custom-post/Real_Home_Customize_Property_Post_Fields.php:71
+msgid "Video"
+msgstr ""
+
+#: template-parts/front-page/content-property-location.php:96
+#: template-parts/front-page/content-property-types.php:126
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Property_Locations_Fields.php:70
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Property_Type_Fields.php:61
+msgid "View All"
+msgstr ""
+
+#: inc/customizer/options/global/Real_Home_Customize_Global_Color_Fields.php:79
+msgid "Visited"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: inc/classes/Real_Home_Breadcrumb_Trail.php:272
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/classes/Real_Home_Breadcrumb_Trail.php:812
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: template-parts/front-page/content-why-us.php:23
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_Services_Fields.php:44
+msgid "why people choose us"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:439
+#: inc/customizer/Real_Home_Customizer.php:494
+#: inc/customizer/options/front-page/Real_Home_Customize_Front_Page_General_Fields.php:19
+msgid "Why Us?"
+msgstr ""
+
+#: inc/customizer/controls/border/Real_Home_Customize_Border_Control.php:88
+msgid "Width"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:488
+msgid "Work Process"
+msgstr ""
+
+#: inc/classes/Real_Home_Breadcrumb_Trail.php:782
+#: inc/classes/Real_Home_Breadcrumb_Trail.php:811
+#: inc/classes/Real_Home_Breadcrumb_Trail.php:838
+#: inc/classes/Real_Home_Breadcrumb_Trail.php:865
+#: inc/classes/Real_Home_Breadcrumb_Trail.php:1205
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/customizer/builder/footer/options/Real_Home_Customize_Footer_Copyright_Fields.php:45
+msgid ""
+"You can insert some arbitrary HTML code tags: {current_year} and {site_title}"
+msgstr ""
+
+#: inc/customizer/Real_Home_Customizer.php:1050
+#: template-parts/header/contact_info.php:21
+msgid "youremail@gmail.com"
+msgstr ""

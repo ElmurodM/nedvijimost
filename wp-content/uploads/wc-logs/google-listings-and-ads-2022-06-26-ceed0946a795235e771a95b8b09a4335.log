@@ -1,0 +1,10 @@
+2022-06-26T22:08:06+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Internal\DependencyManagement\GoogleServiceProvider::handle_unauthorized_error Client error: `POST https://api-vipgo.woocommerce.com/google/google-mc/content/v2.1/583466257/reports/search` resulted in a `401 Unauthorized` response:
+{
+  "error": {
+    "code": 401,
+    "message": "User cannot access account 583466257",
+    "errors": [
+      {
+        " (truncated...)
+
+2022-06-26T22:08:06+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Notes\NoteInitializer::add_notes Please reconnect your Google account.

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <g id="sidebar-right" transform="translate(-636 -339)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="96" height="96" transform="translate(636 339)" fill="#fff"/>
+    <g id="Group_11" data-name="Group 11" transform="translate(104)" opacity="0.8">
+      <rect id="Rectangle_27" data-name="Rectangle 27" width="48" height="3" rx="1.5" transform="translate(544 351)" fill="#b7b8be"/>
+      <rect id="Rectangle_28" data-name="Rectangle 28" width="10" height="2" rx="1" transform="translate(544 357)" fill="#b7b8be"/>
+      <rect id="Rectangle_28-2" data-name="Rectangle 28" width="10" height="2" rx="1" transform="translate(558 357)" fill="#b7b8be"/>
+      <rect id="Rectangle_28-3" data-name="Rectangle 28" width="10" height="2" rx="1" transform="translate(572 357)" fill="#b7b8be"/>
+    </g>
+    <g id="Group_12" data-name="Group 12" transform="translate(104)" opacity="0.8">
+      <rect id="Rectangle_31" data-name="Rectangle 31" width="48" height="2" rx="1" transform="translate(544 402)" fill="#b7b8be"/>
+      <rect id="Rectangle_32" data-name="Rectangle 32" width="45" height="2" rx="1" transform="translate(544 407)" fill="#b7b8be"/>
+      <rect id="Rectangle_33" data-name="Rectangle 33" width="48" height="2" rx="1" transform="translate(544 412)" fill="#b7b8be"/>
+      <rect id="Rectangle_34" data-name="Rectangle 34" width="45" height="2" rx="1" transform="translate(544 417)" fill="#b7b8be"/>
+      <rect id="Rectangle_35" data-name="Rectangle 35" width="32" height="2" rx="1" transform="translate(544 422)" fill="#b7b8be"/>
+    </g>
+    <path id="Path_8" data-name="Path 8" d="M0,0H48V27H0Z" transform="translate(648 367)" fill="#c2c3c9" opacity="0.8"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="18" height="73" transform="translate(702 351)" fill="#c2c3c9"/>
+  </g>
+</svg>

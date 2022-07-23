@@ -1,0 +1,51 @@
+/* Rotate */
+@keyframes botigaAnimRotate {
+    0% {
+        transform: rotate(0);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.botigaAnimRotate {
+    animation-name: botigaAnimRotate;
+    animation-timing-function: linear;
+    animation-duration: 1.5s;
+}
+
+/* Fade In Short */
+@keyframes botigaFadeInShort {
+    0% {
+        opacity: 0;
+        transform: translate3d(0, 20px, 0);
+    }
+    100% {
+        opacity: 1;
+        transform: none;
+    }
+}
+
+.botigaFadeInShort {
+    animation-name: botigaFadeInShort;
+}
+
+.botiga-animated {
+    opacity: 0;
+}
+
+.botiga-anim-infinite {
+    animation-iteration-count: infinite;
+}
+
+.botiga-anim-fowards {
+    animation-fill-mode: forwards;
+}
+
+.botiga-anim-timing-linear {
+    animation-timing-function: linear;
+}
+
+.botiga-anim-duration-300ms {
+    animation-duration: 600ms;
+}
